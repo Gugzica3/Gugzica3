@@ -1,6 +1,6 @@
 # Gustavo Bertoluzzi
 
-👋 Olá! Eu sou Gustavo Bertoluzzi, um desenvolvedor back-end de São Paulo.
+👋 Olá! Eu sou Gustavo Bertoluzzi.
 
 ---
 
