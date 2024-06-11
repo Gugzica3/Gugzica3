@@ -1,16 +1,27 @@
-## Hi there 👋
+# Gustavo Bertoluzzi
 
-<!--
-**Gugzica3/Gugzica3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Gustavo Bertoluzzi, um desenvolvedor back-end de São Paulo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias Back-end
+
+<p align="left">
+  <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+---
+
+## 🧑‍💻 Sobre Mim
+
+```js
+import Desenvolvedor from "GugZicA3";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Gustavo Bertoluzzi";
+  area = "Back-end";
+  local = "São Paulo";
+}
